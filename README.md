@@ -12,4 +12,3 @@ Python · scikit-learn · pandas · Jupyter
 
 ## Status
 In progress - summer 2026
-EOF
