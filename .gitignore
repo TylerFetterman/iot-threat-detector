@@ -2,5 +2,6 @@ data/
 *.csv
 *.zip
 *.rar
-_pycache_/
+__pycache__/
 .ipynb_checkpoints/
+models/*.pkl
