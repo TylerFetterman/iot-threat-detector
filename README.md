@@ -1,6 +1,5 @@
 # IoT Threat Detector
 
-**GitHub:** https://github.com/TylerFetterman/iot-threat-detector  
 Built as a portfolio project for a BS in Cybersecurity at the University of North Dakota.
 
 ---
